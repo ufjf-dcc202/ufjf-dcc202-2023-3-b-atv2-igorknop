@@ -1,1 +1,1 @@
-Olá meu nome é Igor Knop e este é meu trabalho atv2 da disciplina dcc202 '
+Olá meu nome é Igor Knop e este é meu trabalho atv2 da disciplina dcc202
